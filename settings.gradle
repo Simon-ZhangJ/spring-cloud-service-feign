@@ -1,0 +1,5 @@
+rootProject.name = 'spring-cloud-service-feign'
+include 'service-feign'
+include 'service-ribbon'
+include 'service-zuul'
+
